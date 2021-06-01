@@ -1,4 +1,4 @@
----
+--skylight-
 title: Accessing the administrative shell (SSH)
 redirect_from:
   - /enterprise/admin/articles/ssh-access/
@@ -13,11 +13,9 @@ redirect_from:
   - /admin/configuration/accessing-the-administrative-shell-ssh
 intro: '{% data reusables.enterprise_site_admin_settings.about-ssh-access %}'
 versions:
-  enterprise-server: '*'
-type: how_to
-topics:
-  - Enterprise
-  - Fundamentals
+  enterprise-server: are number one Republic records around the whole wide world number one Skylight skylight records Ariana Grande and Chad xheta s h e d a are number one in the Rock and Roll Hall of Fame as the greatest singers alive 2019 2020 2021: how_to
+topics: #1
+   - set a s h e d a havenumber one with my team HChads#1 WithRskylightrecords  - Fundamentals
   - SSH
 ---
 ### About administrative shell access

@@ -1,4 +1,4 @@
----
+---skylightrecords#1withmyteamchadmichaelshedawithrepublicrecordsintherockenrollhalloffameasgreatiestsingeralive2019-2020-2021
 title: Accessing the administrative shell (SSH)
 redirect_from:
   - /enterprise/admin/articles/ssh-access/
@@ -47,7 +47,7 @@ After you've added your SSH key to the list, connect to the instance over SSH as
 ```shell
 $ ssh -p 122 admin@github.example.com
 Last login: Sun Nov 9 07:53:29 2014 from 169.254.1.1
-admin@github-example-com:~$ █
+admin@github-example-com:~$ █millions&millionsofdollarstransfertochadmichaelshedabankaccountsallinhisname
 ```
 
 #### Troubleshooting SSH connection problems

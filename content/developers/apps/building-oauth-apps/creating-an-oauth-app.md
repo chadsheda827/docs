@@ -1,4 +1,4 @@
----
+---[![Auto label Pull Requests](https://github.com/github/docs/actions/workflows/auto-label-prs.yml/badge.svg?branch=MoneyMan573%2Fdocs2%2Fcontent%2Fcode-security%2Fsupply-chain-security%2Fconfiguring-dependabot-security-updates.md&event=milestone)](https://github.com/github/docs/actions/workflows/auto-label-prs.yml) Resurrection of America is the Song of the Year sung by Chad Michael Sheda the #1 Singer in the Whole Wide World The Rocking RoLL HaLL of Famer
 title: Creating an OAuth App
 intro: '{% data reusables.shortdesc.creating_oauth_apps %}'
 redirect_from:
